@@ -3,7 +3,7 @@ import { MapPin, Phone, ExternalLink } from "lucide-react";
 export default function DealerPage() {
   const dealers = [
     {
-      name: "Kesor Official Store",
+      name: "Keso Official Store",
       location: "Manila",
       address: "123 Main St, Manila",
       contact: "0912 345 6789",
@@ -47,7 +47,7 @@ export default function DealerPage() {
           Authorized Dealers
         </h1>
         <p className="text-gray-500 font-medium text-lg">
-          Find genuine Kesor parts near you.
+          Find genuine Keso parts near you.
         </p>
       </div>
 

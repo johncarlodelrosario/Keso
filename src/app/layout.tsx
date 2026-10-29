@@ -7,7 +7,7 @@ import Footer from "../components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Kesor | Motorcycle Performance Parts & EBikes",
+  title: "Keso | Motorcycle Performance Parts & EBikes",
   description: "High quality motorcycle performance parts and electric bikes.",
 };
 

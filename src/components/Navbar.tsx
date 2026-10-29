@@ -25,7 +25,7 @@ export default function Navbar() {
               <div className="relative h-14 w-auto">
                 <Image
                   src="/KESO_Graffiti_Emblem_Logo-removebg-preview.png"
-                  alt="KESOR Logo"
+                  alt="KESO Logo"
                   width={180}
                   height={56}
                   className="h-14 w-auto object-contain transition-transform duration-300 group-hover:scale-105"

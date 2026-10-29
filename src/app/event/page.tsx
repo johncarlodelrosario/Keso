@@ -8,7 +8,7 @@ export default function EventPage() {
           Upcoming Events
         </h1>
         <p className="text-gray-500 font-medium text-lg">
-          Join the Kesor community at our latest track days and meetups.
+          Join the Keso community at our latest track days and meetups.
         </p>
       </div>
 
@@ -25,7 +25,7 @@ export default function EventPage() {
 
           <div className="p-8 flex-grow flex flex-col justify-center">
             <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-3">
-              Kesor Track Day
+              Keso Track Day
             </h2>
             <p className="text-gray-600 mb-6 leading-relaxed">
               Join us for a full day of racing and testing the latest Kesor
@@ -63,7 +63,7 @@ export default function EventPage() {
 
           <div className="p-8 flex-grow flex flex-col justify-center">
             <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-3">
-              Annual Kesor Meetup
+              Annual Keso Meetup
             </h2>
             <p className="text-gray-600 mb-6 leading-relaxed">
               Meet the community, showcase your custom builds, and get exclusive
