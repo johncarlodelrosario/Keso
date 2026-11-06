@@ -17,7 +17,7 @@ export default function HeroSection() {
         </div>
 
         <h1 className="text-6xl md:text-9xl font-black italic tracking-tighter mb-4 drop-shadow-[0_0_30px_rgba(74,0,160,0.8)]">
-          KESOR
+          KESO
         </h1>
 
         <div className="flex flex-col md:flex-row items-start md:items-center justify-start gap-4 md:gap-8 mb-10">
